@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,KACE,sBACF,CACA,YACE,YACF,CACA,OAGE,wBAAqB,CACrB,4BACF","file":"src.45f7c318.css","sourceRoot":"..","sourcesContent":["body {\n  font-family: sans-serif;\n}\ninput:focus {\n  outline: none;\n}\n.error {\n  border-width: 1px;\n  border-style: solid;\n  border-color: crimson;\n  box-shadow: 0 0 0 1px crimson;\n}\n"]}
